@@ -106,4 +106,4 @@ The project uses the simulated weekly marketing dataset from Meta Robyn.
 
 ## Authors
 
-Seminar project developed as part of a university research seminar on causal machine learning and marketing mix modeling.
+Seminar project developed as part of a university research seminar by Ismayil Alizada and Sebastian Leipold on causal machine learning and marketing mix modeling.
